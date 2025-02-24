@@ -9,3 +9,8 @@ function sayBye() {
 function welcome() {
     console.log("Welcome to main branch updated!");
 }
+
+function dev() {
+  console.log("This is dev from personal lap")
+}
+
