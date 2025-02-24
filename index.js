@@ -14,3 +14,7 @@ function dev() {
   console.log("This is dev from personal lap")
 }
 
+function dev() {
+  console.log("Dev updated")
+}
+
