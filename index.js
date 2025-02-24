@@ -7,5 +7,5 @@ function sayBye() {
 }
 
 function welcome() {
-    console.log("Welcome to main branch!");
+    console.log("Welcome to main branch updated!");
 }
