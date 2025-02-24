@@ -1,3 +1,7 @@
+function newW() {
+  console.log("NEW QW")
+}
+
 function greet() {
     console.log("Hello, World!");
 }
