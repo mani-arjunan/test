@@ -3,13 +3,9 @@ function greet() {
 }
 
 function sayBye() {
-    console.log("Goodbye!");
+    console.log("Say Good bye!");
 }
 
 function welcome() {
     console.log("Welcome to main branch!");
-}
-
-function newFun() {
-  console.log("This is a new fun")
 }
