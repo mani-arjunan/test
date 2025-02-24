@@ -2,6 +2,10 @@ function newW() {
   console.log("NEW QW")
 }
 
+function tempmain() {
+  console.log("temp main")
+}
+
 function greet() {
     console.log("Hello, World!");
 }
