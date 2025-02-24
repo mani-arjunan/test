@@ -5,3 +5,7 @@ function greet() {
 function sayBye() {
     console.log("Goodbye!");
 }
+
+function welcome() {
+    console.log("Welcome to main branch!");
+}
