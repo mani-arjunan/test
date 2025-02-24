@@ -3,5 +3,5 @@ function greet() {
 }
 
 function sayBye() {
-    console.log("Goodbye!");
+    console.log("Bye See you later");
 }
