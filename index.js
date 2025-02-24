@@ -9,3 +9,7 @@ function sayBye() {
 function welcome() {
     console.log("Welcome to main branch!");
 }
+
+function stage() {
+  console.log("Stage")
+}
